@@ -5,8 +5,7 @@
 **Conceptual walkthroughs for working scientists — not just code.**
 
 [![Bulk RNA-seq](https://img.shields.io/badge/Bulk_RNA--seq-Live-2d6a4f?style=flat-square)](https://ghsamuel.netlify.app/rnaseq_tutorial.html)
-[![scRNA-seq](https://img.shields.io/badge/scRNA--seq-Live-c2410c?style=flat-square)]
-(https://ghsamuel.netlify.app/scrna_tutorial)
+[![scRNA-seq](https://img.shields.io/badge/scRNA--seq-Live-c2410c?style=flat-square)](https://ghsamuel.netlify.app/scrna_tutorial.html)
 [![CellChat](https://img.shields.io/badge/CellChat-Live-3b5bdb?style=flat-square)](https://ghsamuel.netlify.app/cellchat_tutorial.html)
 [![Spatial](https://img.shields.io/badge/Spatial_Proteomics-Live-0f766e?style=flat-square)](https://ghsamuel.netlify.app/spatial_proteomics_tutorial.html)
 [![Status](https://img.shields.io/badge/status-work_in_progress-f59e0b?style=flat-square)]()
