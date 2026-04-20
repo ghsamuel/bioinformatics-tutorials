@@ -24,10 +24,10 @@ Every tutorial explains the *why* behind each decision: why this normalization, 
 
 | | Tutorial | Methods | Dataset |
 |---|---|---|---|
-| 🟢 | [**Bulk RNA-seq Differential Expression**](https://ghsamuel.netlify.app/rnaseq_tutorial_final.html) | DESeq2 · Salmon · LFC shrinkage · GO & GSEA | Airway · Himes et al. 2014 |
-| 🟠 | [**scRNA-seq Analysis End-to-End**](https://ghsamuel.netlify.app/scrna_tutorial_final.html) | Scanpy · QC · Clustering · Annotation · Batch correction | PBMC 3k · 10x Genomics |
-| 🔵 | [**Cell-Cell Communication with CellChat**](https://ghsamuel.netlify.app/cellchat_tutorial_final.html) | CellChat v2 · L-R inference · Network analysis · Comparison | Atopic dermatitis · NL vs LS |
-| 🩵 | [**Spatial Proteomics — IMC**](https://ghsamuel.netlify.app/spatial_proteomics_tutorial_final.html) | Squidpy · arcsinh normalization · Neighborhood enrichment | Jackson 2020 · Breast cancer IMC |
+| 🟢 | [**Bulk RNA-seq Differential Expression**](https://ghsamuel.netlify.app/rnaseq_tutorial.html) | DESeq2 · Salmon · LFC shrinkage · GO & GSEA | Airway · Himes et al. 2014 |
+| 🟠 | [**scRNA-seq Analysis End-to-End**](https://ghsamuel.netlify.app/scrna_tutorial.html) | Scanpy · QC · Clustering · Annotation · Batch correction | PBMC 3k · 10x Genomics |
+| 🔵 | [**Cell-Cell Communication with CellChat**](https://ghsamuel.netlify.app/cellchat_tutorial.html) | CellChat v2 · L-R inference · Network analysis · Comparison | Atopic dermatitis · NL vs LS |
+| 🩵 | [**Spatial Proteomics — IMC**](https://ghsamuel.netlify.app/spatial_proteomics_tutorial.html) | Squidpy · arcsinh normalization · Neighborhood enrichment | Jackson 2020 · Breast cancer IMC |
 | ⬜ | CITE-seq Multimodal Analysis *(coming soon)* | WNN integration · DSB normalization · Dual annotation | PBMC 5k · TotalSeq-B |
 | ⬜ | Survival Analysis *(coming soon)* | Kaplan-Meier · Cox hazards · Gene expression survival | TCGA BRCA |
 
